@@ -1,0 +1,4 @@
+# можно изменить
+USER_COLOR_LINE = (0,0,250)
+USER_FONT_SIZE = 0.6
+USER_BOLD_LINE = 2
